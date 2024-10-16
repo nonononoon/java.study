@@ -64,6 +64,34 @@ public class quiz {
 		int month; // 변수 선언
 		int day; // 변수 선언
 		day = 1; // 초기화
+		month = 10; 
+		day = 16;
+		
+		System.out.println("오늘은" + month + "월" + day + "일 입니다" );
+		
+		String name = "내이름";
+		
+		System.out.println(name);
+		
+		String tel1 = "010";
+		String tel2 = "1234";
+		String tel3 = "5678";
+		
+		System.out.println("전화번호는" + tel1 + tel2 + tel3 + "입니다.");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	
+		
+		
 		
 		
 		
