@@ -45,32 +45,17 @@ public class quiz03 {
 		String c = "6.8";
 		_____ result = _______;
 		System.out.println(result); */
-		
 
 		
-	/*
-		String a = "10";
-		int b = 3;
-		double c = 4.5;
-		int d = 4;
-		int result = b*d;
-		int result2 = ++result;
-		System.out.println(a +  result2 );   */
-		
-	/*	int a = 4;
-		double b = 3.4;
-		String c = "6.8";
-		double value = Double.parseDouble(c);
-		double e = value / b ;
-		int 
-		String result = 
-		System.out.println(result); */
+
 		
 		int a = 4;
 		double b = 3.4;
 		int d = (int)b;  //3
 		String c = "6.8";
-		int value = Integer.parseInt(c);
+		int value = Integer.parseInt(c); //6
+		
+	
 
 	
 		int x = 111;
