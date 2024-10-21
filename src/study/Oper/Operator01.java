@@ -99,6 +99,8 @@ public class Operator01 {
 		
 		evebtItem = (point > 200) ? ( ( point>=201 && point <=300 ) ? "커피" : "맥주") : "생수";
 		System.out.println(evebtItem);
+		
+		
 		                         
 		
 		
