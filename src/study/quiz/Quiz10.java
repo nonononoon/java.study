@@ -29,7 +29,7 @@ public class Quiz10 {
 		
 		
 		
-	   Scanner scanner = new Scanner(System.in);
+	/*   Scanner scanner = new Scanner(System.in);
 	   System.out.print(" 년도 입력 : ");
 		int year = scanner.nextInt(); 
 		
@@ -42,10 +42,9 @@ public class Quiz10 {
 		} else 
 			System.out.println("윤년이 아니다");  //모든경우 벗어났을때 아니다 
 		
-		
-		/* if (year%400 == 0 || (year%4==0 && !(year%100==0) ) ) { 
-		 * System.out.println("윤년이다");
-		 * } else 
+		if (year%400 == 0 || (year%4==0 && !(year%100==0) ) ) { 
+		 System.out.println("윤년이다");
+		  } else 
 			System.out.println("윤년이 아니다");
 		 */
 		
@@ -111,6 +110,8 @@ public class Quiz10 {
 				}
 		} */ 
 		
+	
 		
+	
 	}
 }

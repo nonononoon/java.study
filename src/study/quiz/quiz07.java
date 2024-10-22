@@ -38,17 +38,17 @@ public class quiz07 {
 		int e = scanner.nextInt();
 
 		System.out.printf(" 사다리꼴의 넓이 = " + (c+d)*e/2.0);
+		 */
 		
 		
-	/* ┌	
-		// A 와 B 나누고 나서 남는 금액 계산 방법
+	/*	// A 와 B 나누고 나서 남는 금액 계산 방법
 														    	
-		int people = 24;
-		int total = 100;
+		int people = 30;
+		int total = 534;
 		
 		System.out.println(" 한명당" + (total/people) + "개 과자를 나누면" );
-		System.out.println(" 남는과자는 : " + (total%people) + "개 입니다");
-		                                                                ┘ */
+		System.out.println(" 남는과자는 : " + (total%people) + "개 입니다"); */
+		                                                                
 		
    /* ┌
 		// 백의자리 십의자리 일의자리 나타내는 방법    
@@ -68,6 +68,8 @@ public class quiz07 {
 		System.out.println("일의자리 : " + (num%10) );
 															   ┘ */
 
+		
+		
 
 	/* ┌	
 			// 두 변수 교환 하는 방법 	
@@ -86,11 +88,25 @@ public class quiz07 {
 			x = y ;
 			y = z ; 
 			System.out.println("x : " + x  + "y : " + y); 
-		 											         ┘ */		
+		 		
+		 											         
+		 											      ┘ */
 		
-	
 		
+		/*	for (int i =1; i<=5; i++) {
+				System.out.println(12345);
+				
+      } */
+			
 		
+		for (int i=1; i<=5; i++) {
+			for (int j=1; j<=5; j++) {
+				System.out.print(i);
+			} 
+			System.out.println("");
+		}
+		
+		   
 			
 	}
 
