@@ -102,14 +102,14 @@ public class Arr01 {
 			}	
 			System.out.println();
 			
-			
+/*			
 			boolArr[2] = true; // falsefalsetruefalse
 			for(int i=0; i< boolArr .length; i++) {
 				       // 0 1 2 3  
 				// falsefalsefalsefalse 
 				System.out.print(boolArr[i] + "");
 			}	
-			System.out.println();
+			System.out.println();*/
 			
 		
 			
