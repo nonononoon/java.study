@@ -113,31 +113,19 @@ public class Quiz16 {
 	//100이상인지 찾으시오. 100 이상이된 시점의 누적합이 얼마인지 + 얼마까지 더해서 100이 넘었는지 찾으세요.	
 		
 	
+	/*	int total = 0;
 		int i=1;
-		int sum=0;
-	
 		
-		while(true) {
-			if (sum%2==0) { 
-				sum=sum-i;
-		}else { 
-			sum=sum+i;
-	} if(sum>=100) {
-		break;
-	}
-		i++;
-		System.out.println (sum + i);	
-		
-		}	
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		for(i=1; total<100; i++) {	//i:200
+			
+			if(i%2 == 0) { //짝수 -		//198
+				total = total - i;		// -198  => -99
+			} else {  //홀수 +		//199
+				total = total + i;	//-99 + 199 => 100
+			}
+		}
+		System.out.println("누적합 : " + total + " 얼마까지 계산했는가 : " + (i-1));
+		*/
 		
 		
 		
