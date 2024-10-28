@@ -1,4 +1,4 @@
-package cls.cls01;
+package cls.cls01.copy;
 
 import java.util.Scanner;
 
