@@ -7,7 +7,7 @@ public class Quiz18 {
 		
 		
 		
-		int [][] arr = new int [5][5];
+		int [][] arr = new int [4][4];
 		for (int i=0; i<arr.length; i++) 
 			       //   i < 5
 		{
